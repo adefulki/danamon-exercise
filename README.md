@@ -26,6 +26,9 @@ This application aims to fulfill the exercise of the recruitment process at the 
   <img width="20%" height="20%" src="https://github.com/adefulki/danamon-exercise/blob/main/screenshots/delete-admin.jpg" />
 </p>
 
+## APK
+[Drive Link](https://drive.google.com/file/d/1zKxe1phvvUTsKBPM7InqRS9VrW3g2eQ-/view?usp=sharing)
+
 ## Architecture 🏗️
   - MVVM Architecture (Model - ComposableView - ViewModel)
   - Repository pattern
